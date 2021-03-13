@@ -1,6 +1,6 @@
 # World Weather Analysis
 
-Our employer, ABC Travel, has asked us to generate latitude and longitude data and show weather data related to the corresponding city.  Some of the tools used for this challenge were Jupyter Notebook, Pandas Library, Googles Maps, CitiPy, Python Requests, APIs, and JSON Traversals. We applied analyses, visualizations, statistical skills, and utilized API data retrieval to complete three separate deliverables. 
+Our employer an online travel agency has asked us to generate latitude and longitude data and show weather data related to the corresponding city.  Some of the tools used for this challenge were Jupyter Notebook, Pandas Library, Googles Maps, CitiPy, Python Requests, APIs, and JSON Traversals. We applied analyses, visualizations, statistical skills, and utilized API data retrieval to complete three separate deliverables. 
 
 ## Results
 
