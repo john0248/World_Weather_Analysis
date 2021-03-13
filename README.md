@@ -15,7 +15,16 @@ In deliverable 1 we created a dataframe with numerous hotels and weather informa
 ![](Vacation_Search/WeatherPy_vacation_map.png)
 
 ### Deliverable 3:
+Deliverable 3 builds on the scripts we used from Deliverable 1 and 2.  In this deliverable, I picked a few random cities to create an itinerary.  I used Google Maps Directions API to create a driving map from the cities selected.  After the driving itinerary was created, we regenerated the map with cities weather markers.  See below a few snapshots taken from my last generated itinerary.  
 
+![](Vacation_Itinerary/WeatherPy_travel_map.png)
+
+
+![](Vacation_Itinerary/WeatherPy_travel_map_markers.png)
+
+
+## Notes about future adjustments
+I noticed it became difficult to display and center all the cities with their markers in the 3rd deliverable.  I believe it is due to choosing cities to close together.  This may be something I need to work out in the map display at a later time. 
 
 
 
