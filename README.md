@@ -16,4 +16,6 @@ In deliverable 1 we created a dataframe with numerous hotels and weather informa
 
 ### Deliverable 3:
 
-## Summary
+
+
+
