@@ -10,6 +10,10 @@ The first deliverable was to generate 2000 random latitudes (lat) and longitudes
 ![](Weather_Database/Weather_Dataframe_tail.png)
 
 ### Deliverable 2:
+In deliverable 1 we created a dataframe with numerous hotels and weather information.  That information is useful but not friendly to use with a customer is mostly concerned about weather during their vacation.  In the second deliverable we created a user input box allowing the customer to determine what kind of temperature they find suitable during their vacation.  After the min and max temperature ranges are determine we can execute the rest of the code to generate a dynamic map.  The map generated uses Google maps and includes a pop-up marker.  See below for an example of our Google Map:
+
+![](Vacation_Search/Map_with_info.png)
+
 ### Deliverable 3:
 
 ## Summary
